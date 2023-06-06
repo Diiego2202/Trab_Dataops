@@ -2,7 +2,7 @@
 # pip install requests
 # pip install beautifulsoup4
 # pip install sqlalchemy
-# pip install mysql-connector-python
+# pip install mysql-connector-python 
 
 import pandas as pd
 import requests
